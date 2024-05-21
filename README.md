@@ -2,6 +2,9 @@
 
 This project is a tic tac toe program with 3 different modes: Two Player, Easy CPU (Random) and Hard CPU (Minimax algorithm). I made this for an AP Computer Science Final Project.
 
+![image](https://github.com/kihea/Tic-Tac-Toe/assets/91762198/df6c8ada-ab97-4746-8c63-441ddde02013)
+
+
 ## How does the minimax algorithm work?
 
 1. The algorithm evaluates all possible moves from the current game state.
